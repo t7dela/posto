@@ -1,0 +1,56 @@
+<meta>
+    <info author = 'Pedrooooo#1554' name = 'Posto de Gasolina'/>
+    <min_mta_version server="1.5.4-9.11413" client="1.5.4-9.11413"/>
+
+    <script src = 'LDg.lua'  type = 'shared'/>
+    <script src = 'LDc.lua' type = 'client' cache = 'false'/>
+    <script src = 'LDs.lua' type = 'server'/>
+
+    <file src = 'assets/button.png'/>
+    <file src = 'assets/refuel/base.png'/>
+    <file src = 'assets/refuel/circle.png'/>
+    <file src = 'assets/refuel/fill_button.png'/>
+    <file src = 'assets/refuel/buttons_layout.png'/>
+    <file src = 'assets/refuel/button.png'/>
+
+    <file src = 'assets/buy/base.png'/>
+
+    <file src = 'assets/management/base.png'/>
+    <file src = 'assets/management/bar_gasoline.png'/>
+
+    <file src = 'assets/management/finance/base.png'/>
+    <file src = 'assets/management/finance/meta_button.png'/>
+    <file src = 'assets/management/finance/apply_button.png'/>
+    <file src = 'assets/management/finance/liter_bar.png'/>
+    <file src = 'assets/management/finance/liter_circle.png'/>
+    <file src = 'assets/management/finance/register_bar.png'/>
+    <file src = 'assets/management/finance/register_bar_effect.png'/>
+    <file src = 'assets/management/finance/meta_line.png'/>
+
+    <file src = 'assets/management/statistics/base.png'/>
+    <file src = 'assets/management/invite/base.png'/>
+    <file src = 'assets/management/employees/base.png'/>
+    <file src = 'assets/management/cashier/base.png'/>
+    <file src = 'assets/management/rotes/base.png'/>
+    <script src ="assets/management/utils/utils.lua" />
+    <file src = 'assets/management/rotes/start_button.png'/>
+    <file src = 'assets/management/rotes/start_button_effect.png'/>
+
+    <file src = 'assets/management/icons/cashier.png'/>
+    <file src = 'assets/management/icons/employees.png'/>
+    <file src = 'assets/management/icons/finance.png'/>
+    <file src = 'assets/management/icons/rotes.png'/>
+    <file src = 'assets/management/icons/statistics.png'/>
+    <file src = 'assets/management/icons/exit.png'/>
+
+    <file src = 'assets/icons/employees.png'/>
+    <file src = 'assets/icons/graphic.png'/>
+    <file src = 'assets/icons/rotes.png'/>
+    <file src = 'assets/icons/statistics.png'/>
+    <file src = 'assets/icons/exit.png'/>
+
+    <file src = 'assets/fonts/regular.ttf'/>
+    <file src = 'assets/fonts/medium.ttf'/>
+    <file src = 'assets/fonts/bold.ttf'/>
+    <file src = 'assets/fonts/light.ttf'/>
+</meta>
